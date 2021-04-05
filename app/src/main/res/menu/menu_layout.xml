@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itm_top_rated_movies"
+        android:title="@string/bnv_top_rated"
+        android:icon="@drawable/ic_star" />
+    <item
+        android:id="@+id/itm_recent_movies"
+        android:title="@string/bnv_popular"
+        android:icon="@drawable/ic_recent" />
+    <item
+        android:id="@+id/itm_upcoming_movies"
+        android:title="@string/bnv_upcoming"
+        android:icon="@drawable/ic_upcoming" />
+
+    <item
+        android:id="@+id/itm_search_movies"
+        android:title="@string/bnv_search"
+        android:icon="@drawable/ic_search_black_18dp" />
+</menu>
